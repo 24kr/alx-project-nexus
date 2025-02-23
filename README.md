@@ -76,4 +76,4 @@ The objective of this project is to:
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/alx-project-nexus.git
+   git clone https://github.com/24kr/alx-project-nexus.git
